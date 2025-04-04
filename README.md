@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi there, I'm **miiiladiii244**
 
-<!--
-**miiiladiii244/miiiladiii244** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👩‍💻 About Me
+- Passionate software developer with a love for open-source contributions.
+- Currently diving deep into **web application security**, with a focus on **OWASP** best practices.
+- Eager to explore and experiment with security testing tools and techniques.
+- Freelancing as a software engineer — building, learning, and growing every day.
+- Computer Science graduate from **SBUK University**.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Languages**: Python, JavaScript, TypeScript, Java, C#
+- **Frameworks & Libraries**: React, Node.js, .NET
+- **Tools & Platforms**: Git, Docker, VS Code
+- **Databases**: MySQL, PostgreSQL, SQL Server
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📬 Let's Connect
+- Email: [miladi@duck.com](mailto:miladi@duck.com)
+
+---
+
+*README crafted with ❤️ using [GitHub Copilot](https://github.com/github/copilot) and [ChatGPT](https://chatgpt.com)*
