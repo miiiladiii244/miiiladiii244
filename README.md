@@ -11,7 +11,7 @@
 - **Languages**: Python, JavaScript, TypeScript, Java, C#
 - **Frameworks & Libraries**: React, Node.js, .NET
 - **Tools & Platforms**: Git, Docker, VS Code
-- **Databases**: MySQL, PostgreSQL, SQL Server
+- **Databases**: Elasticsearch, MySQL, PostgreSQL, SQL Server
 
 ## 📬 Let's Connect
 - Email: [miladi@duck.com](mailto:miladi@duck.com)
