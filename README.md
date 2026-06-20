@@ -16,12 +16,6 @@
 ## 📬 Let's Connect
 - Email: [miladi@duck.com](mailto:miladi@duck.com)
 
-## 🔑 PGP Public Key
-
-You can use my PGP public key to verify signed commits or send encrypted messages:
-
-[Download my public key](./publickey.asc)
-
 ---
 
 *README crafted with ❤️ using [GitHub Copilot](https://github.com/github/copilot) and [ChatGPT](https://chatgpt.com)*
