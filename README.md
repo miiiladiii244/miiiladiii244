@@ -1,21 +1,25 @@
-# 👋 Hi there, I'm **miiiladiii244**
+# Hi, I'm Milad 👋
 
-## 👩‍💻 About Me
-- Passionate software developer with a love for open-source contributions.
-- Currently diving deep into **web application security**, with a focus on **OWASP** best practices.
-- Eager to explore and experiment with security testing tools and techniques.
-- Freelancing as a software engineer — building, learning, and growing every day.
-- Computer Science graduate from **SBUK University**.
+I'm a software engineer with nearly 20 years of experience building production software, APIs, data systems, and automation tools.
 
-## 🛠️ Skills
-- **Languages**: Python, JavaScript, TypeScript, Java, C#
-- **Frameworks & Libraries**: React, Node.js, .NET
-- **Tools & Platforms**: Git, Docker, VS Code
-- **Databases**: Elasticsearch, MySQL, PostgreSQL, SQL Server
+My current interests sit at the intersection of **software engineering, web data, and automation**.
 
-## 📬 Let's Connect
-- Email: [miladi@duck.com](mailto:miladi@duck.com)
+### What I'm working on
 
----
+- Building data extraction and automation tools on **Apify**
+- Developing job-data pipelines for platforms including **Workday, Greenhouse, Lever, and Ashby**
+- Exploring how raw web data can become reliable datasets and useful data products
+- Building production applications with **.NET, TypeScript, React, SQL, Elasticsearch, and Docker**
+- Continuing my work and research around **web application security and OWASP**
 
-*README crafted with ❤️ using [GitHub Copilot](https://github.com/github/copilot) and [ChatGPT](https://chatgpt.com)*
+### Current focus
+
+I'm particularly interested in the engineering behind reliable recurring data collection.
+
+You can also find my public data products on **Apify**:
+
+**apify.com/miladamirzadeh**
+
+### Contact
+
+**milad@miladamirzadeh.com**
